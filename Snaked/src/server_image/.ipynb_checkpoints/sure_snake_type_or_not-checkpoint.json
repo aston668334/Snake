@@ -1,0 +1,336 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://attach.setn.com/newsimages/2020/05/18/2559671-PH.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "龜殼花",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "確定是這條",
+                  "text": "確定是龜殼花"
+                }
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "相似但不確定",
+                  "text": "像龜殼花但不確定"
+                }
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://sites.google.com/site/shedejieshao/_/rsrc/1420459105264/home/bai-bu-she/images.jpg?height=214&width=320",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "百步蛇",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "確定是這條",
+                  "text": "確定是百步蛇"
+                }
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "相似但不確定",
+                  "text": "像百步蛇但不確定"
+                }
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://1.share.photo.xuite.net/m49.k5083/1155331/14283493/753007436_m.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "雨傘節",
+            "weight": "bold",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "確定是這條",
+                  "text": "確定是雨傘節"
+                }
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "相似但不確定",
+                  "text": "像雨傘節但不確定"
+                }
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ytimg.com/vi/WTjnK5dODRI/maxresdefault.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "鎖鏈蛇",
+            "weight": "bold",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "確定是這條",
+                  "text": "確定是鎖鍊蛇"
+                }
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "相似但不確定",
+                  "text": "像鎖鏈蛇但不確定"
+                }
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://1.share.photo.xuite.net/m49.k5083/11553c9/14283493/753085924_m.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "赤尾青竹絲",
+            "weight": "bold",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "確定是這條",
+                  "text": "確定是龜殼花"
+                }
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "相似但不確定",
+                  "text": "像龜殼花但不確定"
+                }
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://images.chinatimes.com/newsphoto/2019-11-15/656/20191115004283.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "眼鏡蛇",
+            "weight": "bold",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "確定是這條",
+                  "text": "確定是龜殼花"
+                }
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "相似但不確定",
+                  "text": "像龜殼花但不確定"
+                }
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://img95.699pic.com/xsj/1k/5s/wx.jpg!/fh/300",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "好像都不是",
+            "weight": "bold",
+            "size": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "不是這些蛇",
+                  "text": "不是這些蛇"
+                }
+              },
+               {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "傳送照片",
+                  "uri": "https://line.me/R/nv/cameraRoll/multi"
+                }
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}

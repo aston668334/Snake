@@ -1,0 +1,32 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/50300232578_a4a4dbf7b5_b.jpg",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "我被雨傘節咬了",
+          "text": "我被雨傘節咬了"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}

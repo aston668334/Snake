@@ -1,0 +1,32 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://b.share.photo.xuite.net/huang791920/1b8638d/9144450/390734859_m.jpg",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "我被百步蛇咬了",
+          "text": "我被百步蛇咬了"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}

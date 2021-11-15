@@ -1,0 +1,32 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv9s2Kk4a-rBwOEIKt93P5kHVD7o3yYxpD9w&usqp=CAU",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "我被眼鏡蛇咬了",
+          "text": "我被眼鏡蛇咬了"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}

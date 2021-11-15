@@ -1,0 +1,71 @@
+
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://img.icons8.com/nolan/452/syringe.png",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.pcc-vghtpe.tw/antidote/page_detail.asp?cid=10&nid=19"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "想要注射的血清種類",
+        "weight": "bold",
+        "size": "xl"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "抗鎖鏈蛇毒血清",
+          "text": "我需要 鎖鏈蛇 血清"
+        }
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "抗龜殼花及赤尾鮐蛇毒血清",
+          "text": "我需要 龜殼花 赤尾鮐蛇 血清"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "抗雨傘節及飯匙倩蛇毒血清",
+          "text": "我需要 雨傘節 飯匙倩蛇 血清"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "抗百步蛇毒血清",
+          "text": "我需要 百步蛇 血清"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}

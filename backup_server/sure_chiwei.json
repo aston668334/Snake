@@ -1,0 +1,32 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://sites.google.com/site/shedejieshao/_/rsrc/1420460034540/home/chi-wei-qing-zhu-si/4.jpg?height=212&width=320",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "我被赤尾青竹絲咬了",
+          "text": "我被赤尾青竹絲咬了"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}

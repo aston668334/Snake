@@ -1,0 +1,62 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://marketplace.canva.cn/ySmHM/MACHxoySmHM/3/tl/canva-MACHxoySmHM.png",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://info.babyhome.com.tw/article/187"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "野外安全知識",
+        "weight": "bold",
+        "size": "xl"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "安全探索的六大原則",
+          "text": "安全探索的六大原則"
+        }
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "野外需要的裝備",
+          "text": "野外需要的裝備"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "在空曠地區從事戶外活動遇暴雨",
+          "text": "在空曠地區從事戶外活動遇暴雨"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}

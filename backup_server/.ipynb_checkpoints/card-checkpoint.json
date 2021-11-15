@@ -1,0 +1,65 @@
+
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "蛇的特徵是什麼?",
+        "color": "#FFFFFF",
+        "weight": "bold"
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "有條紋嗎?",
+        "size": "xl",
+        "margin": "none",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "有",
+          "text": "這條蛇有條紋"
+        },
+        "offsetTop": "xs",
+        "offsetBottom": "xs",
+        "offsetStart": "xs",
+        "offsetEnd": "xs"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "沒有",
+          "uri": "http://linecorp.com/"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "不確定",
+          "uri": "https://line.me/R/nv/location/"
+        }
+      }
+    ]
+  },
+  "styles": {
+    "header": {
+      "separator": true,
+      "backgroundColor": "#00B900"
+    }
+  }
+
+}
